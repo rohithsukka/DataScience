@@ -1,0 +1,4 @@
+gradio
+Pyrebase4
+python-dotenv
+pandas
